@@ -12,7 +12,7 @@
 </a>
 </p>
 
-- 🌱 I’m currently working **Software/Backend at A Group R&D Center.**
+- 🌱 I’m currently working **Software/Backend Engineer at A Group R&D Center.**
 
 - 🌱 I’m currently learning **Docker, AWS, and Microservices**
 
